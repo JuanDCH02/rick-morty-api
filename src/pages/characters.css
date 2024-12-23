@@ -1,0 +1,21 @@
+.burger{
+    background-color: #344d67;
+    h2,p{
+        color: #6eccaf;
+    }
+    text-align: center;
+    text-transform: capitalize;
+    border-radius: 8px;
+    svg{
+        color: #6eccaf;
+        width: 40px;
+        height: 40px;
+        margin: 10px;
+    }
+}
+/* a partir de esta resolucion no se ve el menu hamburguesa */
+@media(min-width: 768px) {
+    .burger {
+        display: none;
+    }
+}

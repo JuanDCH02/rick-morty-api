@@ -1,0 +1,16 @@
+.button{
+    background-color: #344d67;
+    color: #6eccaf;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 6px;
+}
+.button:hover{
+    background-color: #6eccaf;
+    color: #223142;
+    transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+}
+.mark{
+    background-color: #6eccaf;
+    color: #223142;
+}

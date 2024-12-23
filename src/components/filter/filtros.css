@@ -1,0 +1,14 @@
+.filtros{
+    text-transform: capitalize;
+    border-radius: 8px;
+    color: white; 
+    background-color:  #344d67;
+
+    .active-label{
+        color: #6eccaf;
+        font-weight: 600;
+    }
+    .active-checkbox{
+        background-color: #6eccaf;
+    }
+}

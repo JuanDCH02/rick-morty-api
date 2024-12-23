@@ -1,0 +1,14 @@
+.contenedor{
+    max-width: 900px;
+    padding: 15px;
+    border-radius: 8px;
+    background-color: rgba(240, 248, 255, 0.922);
+    -webkit-box-shadow: 9px 14px 24px 0px rgba(187,213,252,1);
+    -moz-box-shadow: 9px 14px 24px 0px rgba(187,213,252,1);
+    box-shadow: 9px 14px 24px 0px rgba(187,213,252,1);
+}
+
+h1,h2,h3,p{
+    color:  #223142;
+}
+  

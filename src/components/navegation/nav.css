@@ -1,0 +1,12 @@
+.header{
+    background-color: #344d67;
+    height: 150px;
+    align-items: center;
+    padding: 30px;
+
+
+   h3{
+     color: #6eccaf;
+     text-transform: capitalize;
+   }
+}
